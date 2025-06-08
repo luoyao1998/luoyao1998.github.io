@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yao Luo's Homepage"
-description              : 
+description              : "Yao Luo's Homepage"
 repository               : "luoyao1998/luoyao1998.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yao Luo"
+  name             : "Yao Luo (罗尧)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Bytedance Seed Researcher"
   location         : 
