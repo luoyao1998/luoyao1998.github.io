@@ -39,7 +39,7 @@ She is dedicated to developing **<font color=red>efficient and powerful architec
 
 ByteDance Seed
 
-[![arXiv](https://img.shields.io/badge/Paper-Seed-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/pdf/2504.13914) 
+[![arXiv](https://img.shields.io/badge/Paper-Seed-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/pdf/2504.13914) [![project](https://img.shields.io/badge/%F0%9F%8E%A7%20Try%20Seed1.5--Thinking-orange.svg)](https://www.volcengine.com/experience/ark)
 - Seed1.5-Thinking has achieved strong performance in both reasoning and non-reasoning tasks.
 </div>
 </div>
