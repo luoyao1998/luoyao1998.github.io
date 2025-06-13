@@ -31,14 +31,28 @@ She is dedicated to developing **<font color=red>efficient and powerful architec
   
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/flexprefill.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FlexPrefill: A Context-Aware Sparse Attention Mechanism for Efficient Long-Sequence Inference](https://arxiv.org/pdf/2502.20766?)
+
+Xunhao Lai, Jianqiao Lu, Yao Luo, Yiyuan Ma, Xun Zhou
+
+[![arXiv](https://img.shields.io/badge/Paper-ICLR_2025-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/pdf/2502.20766?) [![](https://img.shields.io/github/stars/ByteDance-Seed/FlexPrefill?style=social&label=Code+Stars)](https://github.com/ByteDance-Seed/FlexPrefill)
+- FlexPrefill is a dynamic and context-aware sparse attention mechanism that optimizes computational efficiency during long-sequence inference for LLMs.
+- FlexPrefill can dynamically adjust sparse attention patterns and computational budgets in real-time based on input demands and attention head requirements.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/why_does.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Why Does the Effective Context Length of LLMs Fall Short?]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://arxiv.org/pdf/2410.18745?))
+[Why Does the Effective Context Length of LLMs Fall Short?](https://arxiv.org/pdf/2410.18745?)
 
 Chenxin An, Jun Zhang, Ming Zhong, Lei Li, Shansan Gong, Yao Luo, Jingjing Xu, Lingpeng Kong
-- Analyze the effective context length of LLMs from a pretraining perspective.
-- There is a left-skewed position frequency distribution in LLM pretraining and these infrequent positions cannot effectively model long-range dependencies.
+
+[![arXiv](https://img.shields.io/badge/Paper-ICLR_2025-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/pdf/2410.18745?) [![](https://img.shields.io/github/stars/HKUNLP/STRING?style=social&label=Code+Stars)](https://github.com/ByteDance-HKUNLP/STRING)
+- We find there is a left-skewed position frequency distribution in LLM pretraining and these infrequent positions cannot effectively model long-range dependencies.
 - We propose STRING, a training-free method that does not require further training but brings significant improvements to popular RoPE-based LLMs.
 </div>
 </div>
