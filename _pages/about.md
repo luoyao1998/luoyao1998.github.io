@@ -31,6 +31,20 @@ She is dedicated to developing **<font color=red>efficient and powerful architec
   
 # 📝 Publications 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Seed</div><img src='images/flexprefill.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Seed1.5-Thinking: Advancing Superb Reasoning Models with Reinforcement Learning](https://arxiv.org/pdf/2504.13914)
+
+ByteDance Seed
+
+[![arXiv](https://img.shields.io/badge/Paper-Seed-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/pdf/2504.13914) 
+- Seed1.5-Thinking has achieved strong performance in both reasoning and non-reasoning tasks.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/flexprefill.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
