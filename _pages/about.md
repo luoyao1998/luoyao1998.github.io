@@ -17,10 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+**Yao Luo (罗尧)** is a LLM researcher at the ByteDance Seed Team. She received her Master’s degree from the National University of Singapore and her Bachelor’s degree from the Beijing University of Posts and Telecommunications.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+She is dedicated to developing **<font color=red>efficient and powerful architectures of foundation model</font>**, including large language models and large multimodal models. To this end, her research interests include *<font color=blue>sparse architectures, linear attention, long-context modeling, and model merging</font>*, among others.
 
+> We are recruiting LLM interns. If you're interested in LLM efficiency or sparse/linear attention, feel free to contact me via Email `luoyao0323@163.com` or WeChat `15600307011`.
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -56,4 +57,4 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=mVk5zoyIIJCGFhGqCzXpQJTlg9fHK5StXIVNMd6To7k&cl=ffffff&w=a"></script>
+<a href="https://clustrmaps.com/site/1c6lv"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=mVk5zoyIIJCGFhGqCzXpQJTlg9fHK5StXIVNMd6To7k&cl=ffffff" /></a>
