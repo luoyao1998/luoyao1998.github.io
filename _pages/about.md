@@ -39,7 +39,7 @@ She is dedicated to developing **<font color=red>efficient and powerful architec
 
 ByteDance Seed
 
-[![arXiv](https://img.shields.io/badge/Paper-Bytedance%20Seed-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/pdf/2505.12082) [![project](https://img.shields.io/badge/Try%20Seed1.5--Thinking-orange.svg)](https://www.volcengine.com/experience/ark)
+[![arXiv](https://img.shields.io/badge/Paper-Bytedance%20Seed-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/pdf/2505.12082)
 - We present a comprehensive investigation of model merging techniques during the pre-training process.
 - Merging checkpoints trained with constant learning rates not only achieves significant performance improvements but
 also enables accurate prediction of annealing behavior.
@@ -95,9 +95,6 @@ Chenxin An, Jun Zhang, Ming Zhong, Lei Li, Shansan Gong, Yao Luo, Jingjing Xu, L
 - *2020.09 - 2021.07*: Master’s degree. National University of Singapore
 - *2019.08 - 2019.11*: Research intern. National University of Singapore.
 - *2016.09 - 2020.06*: Bachelor’s degree. Beijing University of Posts and Telecommunications.
-
-
-
 
 
 <a href="https://clustrmaps.com/site/1c6lv"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=mVk5zoyIIJCGFhGqCzXpQJTlg9fHK5StXIVNMd6To7k&cl=ffffff" /></a>
