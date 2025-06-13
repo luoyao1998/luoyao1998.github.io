@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yao Luo (罗尧)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Bytedance Seed Researcher"
+  bio              : "LLM Researcher @ ByteDance Seed Team"
   location         : 
-  employer         : Bytedance
+  employer         : ByteDance
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=IqI6M28AAAAJ"
   email            : "luoyao0323@163.com"
