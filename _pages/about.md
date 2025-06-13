@@ -24,9 +24,10 @@ She is dedicated to developing **<font color=red>efficient and powerful architec
 > We are recruiting LLM interns. If you're interested in LLM efficiency or sparse/linear attention, feel free to contact me via Email `luoyao0323@163.com` or WeChat `15600307011`.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.04*: &nbsp;🎉	We release <font color=red>Seed1.5-Thinking</font>, a powerful reasoning model!
+- *2025.01*: &nbsp;🎉	<font color=red>2 papers</font> are accepted by ICLR 2025!
 
+  
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
