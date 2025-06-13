@@ -92,7 +92,7 @@ Chenxin An, Jun Zhang, Ming Zhong, Lei Li, Shansan Gong, Yao Luo, Jingjing Xu, L
 
 # 📖 Experience
 - *2021.10 - now*, researcher at ByteDance. 
-- *2020.09 - 2021.07*: Master’s degree. National University of Singapore
+- *2020.09 - 2021.07*: Master’s degree. National University of Singapore.
 - *2019.08 - 2019.11*: Research intern. National University of Singapore.
 - *2016.09 - 2020.06*: Bachelor’s degree. Beijing University of Posts and Telecommunications.
 
